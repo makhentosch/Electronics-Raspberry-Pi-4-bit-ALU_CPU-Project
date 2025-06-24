@@ -97,3 +97,11 @@ pip3 install RPLCD smbus2
 Run the script:
 ```bash
 python3 main.py
+```
+---
+## Example of Work
+![image](https://github.com/user-attachments/assets/13acfe94-c0e8-44fe-8ca2-adb62542a064)![image](https://github.com/user-attachments/assets/9f7c4ca6-4ace-452d-9c1a-7956a36ced8f)![image](https://github.com/user-attachments/assets/a3839583-0513-4d97-a83b-1b81796bf5a2)![image](https://github.com/user-attachments/assets/13a116be-27d9-437c-8c17-1c30c938d32a)![image](https://github.com/user-attachments/assets/f86c12c7-7643-455c-8014-ba5610c4b6d9)
+
+
+
+
