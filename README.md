@@ -73,3 +73,27 @@ This project demonstrates a low-level binary calculator built using a **Raspberr
 - Subtraction wraps using:  
   ```python
   result = (a - b) % 32
+
+---
+
+## 🧪 Learning Outcomes
+
+This project demonstrates:
+- Manual binary data entry using GPIO
+- Simulating an ALU with basic logic gates
+- Bit-wise operations and 2's complement subtraction wraparound
+- Using I2C communication with LCD
+- Embedded logic thinking without a high-level GUI
+
+---
+## 🚀 Running the Code
+Install required libraries:
+ ```bash
+sudo apt update
+sudo apt install python3-rpi.gpio python3-smbus
+pip3 install RPLCD smbus2
+```
+
+Run the script:
+```bash
+python3 main.py
